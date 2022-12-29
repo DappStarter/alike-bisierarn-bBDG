@@ -1,0 +1,12 @@
+{
+    "name": "rideshare",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "single",
+        "/category/access_control/core-contract_runstate": true,
+        "/category/collection/core-entity": true
+    }
+}
